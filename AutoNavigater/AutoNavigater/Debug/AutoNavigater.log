@@ -1,8 +1,5 @@
-﻿生成启动时间为 2012/7/7 9:39:59。
-     1>项目“E:\WorkFiles\Navigation-Picture\AutoNavigater\AutoNavigater\AutoNavigater.vcxproj”在节点 2 上(Build 个目标)。
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AutoNavigater.exe.embed.manifest" /manifest Debug\AutoNavigater.exe.intermediate.manifest "D:\SoftwareProgramming\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
-     1>已完成生成项目“E:\WorkFiles\Navigation-Picture\AutoNavigater\AutoNavigater\AutoNavigater.vcxproj”(Build 个目标)的操作。
+﻿生成启动时间为 2012/7/8 14:14:08。
 
 生成成功。
 
-已用时间 00:00:00.10
+已用时间 00:00:00.02
